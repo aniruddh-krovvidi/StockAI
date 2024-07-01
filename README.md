@@ -28,4 +28,36 @@ This project aims to predict stock prices using machine learning techniques, foc
 - ta-lib
 
 ## Installation
+
 1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/aniruddh-krovvidi/BookHub
+    cd BookHub
+    ```
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+    ```
+
+
+
+## Usage
+1. Ensure Python 3.x and all dependencies are installed.
+2. Run the main script to execute the stock price prediction:
+
+
+## Future Enhancements
+- Implement real-time data streaming for live predictions.
+- Explore ensemble learning methods to further improve prediction accuracy.
+- Enhance the user interface for better visualization of predicted vs. actual prices.
+
+## Contributing
+Contributions are welcome! Fork the repository and submit a pull request with your enhancements.
+
+## Acknowledgments
+- The Technical Analysis Library (ta) for providing essential technical indicators.
+- Open-source contributors to TensorFlow, XGBoost, and other libraries used in this project.
+- Stack Overflow and other programming communities for valuable insights and troubleshooting tips.
+
+   
