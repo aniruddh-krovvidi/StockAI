@@ -1,8 +1,7 @@
 # StockAI
-# Stock Price Prediction Project
 
 ## Overview
-This project aims to predict stock prices using machine learning techniques, focusing on Python, TensorFlow, and XGBoost. The predictive models leverage historical stock market data and incorporate advanced technical indicators to enhance accuracy and reliability.
+This project aims to predict the stock prices of NVIDIA using machine learning techniques, focusing on Python, TensorFlow, and XGBoost. The predictive models leverage historical stock market data and incorporate advanced technical indicators to enhance accuracy and reliability.
 
 ## Features
 - **Data Collection and Preparation:**
