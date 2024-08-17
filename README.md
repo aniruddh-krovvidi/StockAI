@@ -31,8 +31,8 @@ This project aims to predict the stock prices of NVIDIA using machine learning t
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/aniruddh-krovvidi/BookHub
-    cd BookHub
+    git clone https://github.com/aniruddh-krovvidi/StockAI
+    cd StockAI
     ```
 2. Install dependencies:
    ```bash
